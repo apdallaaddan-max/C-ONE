@@ -2,9 +2,7 @@
 ## Course Information
 
 | Item | Details |
-| :--- | :--- |
 | **Course Title** | C# Programming I |
-| **Course Code** | CA221 |
 | **Department** | Computer Application |
 | **Faculty** | Computer & Information Technology |
 | **University** | Jamhuriya University of Science & Technology |
